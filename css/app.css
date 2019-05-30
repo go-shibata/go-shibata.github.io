@@ -1,0 +1,29 @@
+body {
+    background-color: #e9ecef;
+}
+
+#top {
+    position: relative;
+    height: 100vh;
+    min-height: 300px;
+    background: url(../img/top_bg.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.sns-icon {
+    font-size: 20px;
+}
+
+.content {
+    padding: 30px 30px;
+}
+
+.work::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f101";
+    margin-right: 8px;
+}
+
+.skill::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f101";
+    margin-right: 8px;
+}
