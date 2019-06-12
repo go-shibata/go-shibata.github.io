@@ -19,17 +19,7 @@ body {
     padding: 30px 30px;
 }
 
-.about::before {
-    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f101";
-    margin-right: 8px;
-}
-
 .work::before {
-    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f101";
-    margin-right: 8px;
-}
-
-.skill::before {
     font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f101";
     margin-right: 8px;
 }
