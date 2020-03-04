@@ -4,7 +4,7 @@ body {
 
 #top {
     position: relative;
-    height: 100vh;
+    height: 50vh;
     min-height: 300px;
     background: url(../img/top_bg.jpg) no-repeat center center;
     background-size: cover;
